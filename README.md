@@ -1,1 +1,1 @@
-Astraphobia Client is a obfuscated cheating script for a browser game called deeeep.io and in which I took it upon myself to deobfuscate it to the best of my own abilites
+Astraphobia Client is a obfuscated cheating script for a browser game called deeeep.io and in which I took it upon myself to deobfuscate it to the best of my own abilites so that people can skid off of it, I'd like to note that if I feel motivated I'd be willing to deobfuscate/crack newer versions of Astraphobia Client and post them online for everyone to see.
